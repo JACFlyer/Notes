@@ -12,7 +12,7 @@ public class NotesApplication extends Application {
     NotesDatabase.setContext(this);
     Stetho.initializeWithDefaults(this);
     //  Non-trivial database task??
-    
+
   }
 
 
